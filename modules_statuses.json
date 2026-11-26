@@ -1,0 +1,7 @@
+{
+    "WarehouseAddon": true,
+    "MultiBranchAddon": true,
+    "ThermalPrinterAddon": true,
+    "HrmAddon": true,
+    "Business": true
+}

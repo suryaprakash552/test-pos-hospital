@@ -1,0 +1,12 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "strictComparison": true,
+        "strictTypes": true,
+        "declareStrictTypes": true,
+        "explicitStringVariable": true,
+        "explicitIntegerVariable": true,
+        "explicitArrayVariable": true,
+        "explicitBoolVariable": true
+    }
+}
